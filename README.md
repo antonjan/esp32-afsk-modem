@@ -1,7 +1,7 @@
 # esp32-afsk-modem
 This repository qill have my code to generate and decode afsk message using an ESP32
 
-## AFSK generator
+## AFSK 1200 generator 1K2 AFSK
 Here's a high-level overview of the steps you'll need to follow:
 
     Import required libraries and set up the ESP32 for Wi-Fi communication.
@@ -11,7 +11,7 @@ Here's a high-level overview of the steps you'll need to follow:
     Connect a speaker or other audio output device to the output pin.
     Continuously read the serial data, modulate it to audio tones, and output it to the speaker.
 
-## AFSK decoder
+## AFSK 1200 decoder 1K2 AFSK
 In this code:
 
     Include the necessary libraries for Wi-Fi, audio input, and the AFSK decoder.
